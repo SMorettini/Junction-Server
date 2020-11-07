@@ -1,7 +1,7 @@
 import os
 from flask import Flask, jsonify, send_from_directory, session, request, send_file
 from flask_cors import CORS
-from server.views import landing
+from views import landing
 
 def create_app():
     app = Flask(__name__, template_folder='templates')
