@@ -1,6 +1,6 @@
-# Server for Bio AI project
+# API for PREDICTO
 
-This is the Flask server for the Bio AI project.
+PREDICTO is a concept app realized for the Junction Hackaton 2020.
 
 ## Quickstart
 
